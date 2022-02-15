@@ -10,3 +10,4 @@
 
 
 
+![Simulator Screen Shot - iPhone 12 mini - 2022-02-15 at 12 34 00](https://user-images.githubusercontent.com/72939785/154056730-b7d84740-41b6-4441-9ce4-1f8413e94705.png)
